@@ -32,8 +32,8 @@ Before you begin, ensure you have the following installed on your machine:
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/Fahadboi66/ZoroPay.git
-cd ZoroPay
+git clone https://github.com/AbdulMoiz2493/Zoro_Pay.git
+cd Zoro_Pay
 ```
 
 ### 2️⃣ Install Dependencies  
